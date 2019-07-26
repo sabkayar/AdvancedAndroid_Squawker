@@ -34,5 +34,8 @@
 
     <string name="follow_summary_not_following">Not Following</string>
     <string name="follow_summary_following">Following</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="channel_name">Messages</string>
+    <string name="channel_description">No sound</string>
 
 </resources>
